@@ -1,0 +1,29 @@
+body {
+    font-family: Constantia;
+    font:bolder;
+    background-image: url(./assets/Pizza.jpg);
+    color: aliceblue;
+}
+
+
+h1, h2, p{
+    text-align: center;
+    text-decoration:wavy;
+}
+
+
+
+
+
+a {
+    text-decoration: none;
+    color: blueviolet;
+    
+}
+
+div {
+    text-align: center;
+}
+a:hover{
+    color: red;
+}

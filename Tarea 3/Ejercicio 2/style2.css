@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+    border: 3px solid red;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    font: bolder; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+h1 {
+    border: 2px solid #00F;
+    padding: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+h2 {
+    border: 2px solid #AAA;
+    padding: 5px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#datos {
+    border: 2px solid #0f0;
+
+}
+
+#datos2 {
+    border: 2px solid #0f0;
+
+}
+
+li {
+    margin-bottom: 0px;
+}
+
+li + li {
+    margin-top: 15px;
+}

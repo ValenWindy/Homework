@@ -1,0 +1,18 @@
+.tarea-2 {
+    font-family: sans-serif;
+    margin: auto;
+}
+
+.tarea-3 {
+    margin: auto;
+}
+
+body {
+    color: white;
+    background-image: url(Ocean.jpg);
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
